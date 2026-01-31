@@ -22,7 +22,7 @@
   "5": { 
     "password": "e",
     "info": "Joueur 5 : Marie : Vous êtes villageois, ne vous faites pas bouffer !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous."
+    "info2": "\n\nJour n°1 : R.I.P"
   },
   "6": { 
     "password": "f",
@@ -37,7 +37,7 @@
   "8": { 
     "password": "h",
     "info": "Joueur 8 : Alex : Vous êtes l'enfant sauvage. Surveillez bien Joueur 5 : Marie (votre modèle), s'il est éliminé, vous mangerez la nuit et vous cacherez le jour.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous."
+    "info2": "\n\nJour n°1 : Votre modèle est mort, vous devenez un Loup-garou jusqu'à la fin de la partie."
   },
   "9": { 
     "password": "i",

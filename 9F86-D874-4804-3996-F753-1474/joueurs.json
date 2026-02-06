@@ -17,7 +17,7 @@
   "4": {
     "password": "d",
     "info": "Joueur 4 : Pierre : Vous êtes la sorcière, utilisez vos pouvoirs avec sagesse car un grand pouvoir implique de grandes responsabilités.",
-    "info2": "\n\nJour n°1 : Vous avez été infecté par l'infect père des loups. Vous êtes devenu un loup-garou et vous vous réveillerez avec la meute lors de la prochaine nuit. Par ailleur, vous conserver vos pouvoirs si vous en avez eu en tant que membre du village.\n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Vous avez été infecté par l'infect père des loups. Vous êtes devenu un loup-garou et vous vous réveillerez avec la meute lors de la prochaine nuit. Par ailleur, vous conserver vos pouvoirs si vous en avez eu en tant que membre du village.\n\nJour n°2 : R.I.P"
   },
   "5": {
     "password": "e",
@@ -37,7 +37,7 @@
   "8": {
     "password": "h",
     "info": "Joueur 8 : Alex : Vous êtes l'enfant sauvage. Surveillez bien Joueur 4 : Pierre (votre modèle), s'il est éliminé, vous mangerez la nuit et vous cacherez le jour.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Votre modèle est mort, vous devenez un Loup-garou jusqu'à la fin de la partie. "
   },
   "9": {
     "password": "i",

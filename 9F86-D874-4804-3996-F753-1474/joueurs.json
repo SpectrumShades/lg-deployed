@@ -2,51 +2,51 @@
   "1": {
     "password": "9352",
     "info": "Joueur 1 : Alex : Vous êtes l'enfant sauvage. Surveillez bien Joueur 8 : Loutre (votre modèle), s'il est éliminé, vous mangerez la nuit et vous cacherez le jour.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Votre modèle est mort, vous devenez un Loup-garou jusqu'à la fin de la partie. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Votre modèle est mort, vous devenez un Loup-garou jusqu'à la fin de la partie. \n\nJour n°3 : Pas d'information supplémentaire pour vous. "
   },
   "2": {
     "password": "3630",
     "info": "Joueur 2 : Sococot : Vous êtes villageois, ne vous faites pas bouffer !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. \n\nJour n°3 : Pas d'information supplémentaire pour vous. "
   },
   "3": {
     "password": "1208",
     "info": "Joueur 3 : marine : Vous êtes cupidon, les amoureux (Joueur 6 : audrey et Joueur 8 : Loutre) vous en voudront peut-être…",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P\n\nJour n°3 : R.I.P"
   },
   "4": {
     "password": "1",
     "info": "Joueur 4 : Pierre : Vous êtes l'ancien du village, la vieillesse vous occtroie une vie supplémentaire. #EXTRALIFE",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P\n\nJour n°3 : R.I.P"
   },
   "5": {
     "password": "9691",
     "info": "Joueur 5 : Marie : Vous êtes le chasseur, one last shot for you !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. \n\nJour n°3 : R.I.P"
   },
   "6": {
     "password": "beu",
     "info": "Joueur 6 : audrey : Vous êtes la voyante, utilisez votre pouvoir avec clairvoyance. Vous êtes amoureux du Joueur 8 : Loutre. Vos destins sont liés dans la victoire comme dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P\n\nJour n°3 : R.I.P"
   },
   "7": {
     "password": "3103",
     "info": "Joueur 7 : Léa : Vous êtes villageois, ne vous faites pas bouffer !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. \n\nJour n°3 : Pas d'information supplémentaire pour vous. "
   },
   "8": {
     "password": "1004",
     "info": "Joueur 8 : Loutre : Vous êtes loup-garou, soyez malin lors de vos repas ! Vous êtes amoureux de Joueur 6 : audrey. Vos destins sont liés jusque dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P\n\nJour n°3 : R.I.P"
   },
   "9": {
     "password": "2161",
     "info": "Joueur 9 : Uthal : Vous êtes loup-garou, soyez malin lors de vos repas !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. \n\nJour n°3 : Pas d'information supplémentaire pour vous. "
   },
   "10": {
     "password": "2802",
     "info": "Joueur 10 : Fab : Vous êtes la sorcière, utilisez vos pouvoirs avec sagesse car un grand pouvoir implique de grandes responsabilités.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. \n\nJour n°3 : Pas d'information supplémentaire pour vous. "
   }
 }

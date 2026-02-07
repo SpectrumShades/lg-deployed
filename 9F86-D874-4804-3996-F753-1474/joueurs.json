@@ -2,51 +2,51 @@
   "1": {
     "password": "9352",
     "info": "Joueur 1 : Alex : Vous êtes l'infect père des loups. Vos dents empoisonnés permettront d'augmenter l'effectif des carnivores. Vous êtes amoureux de Joueur 4 : Pierre. Vos destins sont liés jusque dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "2": {
     "password": "3630",
     "info": "Joueur 2 : Sococot : Vous êtes le chevalier à l'épée rouillée. AKA chevalier au tétanos.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "3": {
     "password": "1208",
     "info": "Joueur 3 : marine : Vous êtes l'ancien du village, la vieillesse vous occtroie une vie supplémentaire. #EXTRALIFE",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
   },
   "4": {
     "password": "1",
     "info": "Joueur 4 : Pierre : Vous êtes villageois, ne vous faites pas bouffer ! Vous êtes amoureux du Joueur 1 : Alex. Vos destins sont liés dans la victoire comme dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Vous avez été infecté par l'infect père des loups. Vous êtes devenu un loup-garou et vous vous réveillerez avec la meute lors de la prochaine nuit. Par ailleur, vous conserver vos pouvoirs si vous en avez eu en tant que membre du village."
   },
   "5": {
     "password": "9691",
     "info": "Joueur 5 : Marie : Vous êtes villageois, ne vous faites pas bouffer !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "6": {
     "password": "beu",
     "info": "Joueur 6 : audrey : Vous êtes le chasseur, one last shot for you !",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "7": {
     "password": "3103",
     "info": "Joueur 7 : Léa : Vous êtes loup-garou, soyez malin lors de vos repas !",
-    "info2": "\n\nJour n°1 : R.I.P"
+    "info2": "\n\nJour n°1 : R.I.P\n\nJour n°2 : R.I.P"
   },
   "8": {
     "password": "1004",
     "info": "Joueur 8 : Loutre : Vous êtes cupidon, les amoureux (Joueur 4 : Pierre et Joueur 1 : Alex) vous en voudront peut-être…",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "9": {
     "password": "2161",
     "info": "Joueur 9 : Uthal : Vous êtes la sorcière, utilisez vos pouvoirs avec sagesse car un grand pouvoir implique de grandes responsabilités.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   },
   "10": {
     "password": "2802",
     "info": "Joueur 10 : Fab : Vous êtes la voyante, utilisez votre pouvoir avec clairvoyance.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "password": "9352",
     "info": "Joueur 1 : Alex : Vous êtes l'enfant sauvage. Surveillez bien Joueur 8 : Loutre (votre modèle), s'il est éliminé, vous mangerez la nuit et vous cacherez le jour.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Votre modèle est mort, vous devenez un Loup-garou jusqu'à la fin de la partie. "
   },
   "2": {
     "password": "3630",
@@ -27,7 +27,7 @@
   "6": {
     "password": "beu",
     "info": "Joueur 6 : audrey : Vous êtes la voyante, utilisez votre pouvoir avec clairvoyance. Vous êtes amoureux du Joueur 8 : Loutre. Vos destins sont liés dans la victoire comme dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
   },
   "7": {
     "password": "3103",
@@ -37,7 +37,7 @@
   "8": {
     "password": "1004",
     "info": "Joueur 8 : Loutre : Vous êtes loup-garou, soyez malin lors de vos repas ! Vous êtes amoureux de Joueur 6 : audrey. Vos destins sont liés jusque dans la mort.",
-    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : Pas d'information supplémentaire pour vous. "
+    "info2": "\n\nJour n°1 : Pas d'information supplémentaire pour vous. \n\nJour n°2 : R.I.P"
   },
   "9": {
     "password": "2161",
